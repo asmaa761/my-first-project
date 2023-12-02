@@ -1,0 +1,162 @@
+body {
+    font-family: Roboto, sans-serif;
+
+}
+
+.text-end {
+    text-align: right !important;
+}
+.dropdown-menu :hover{
+    background-color: #01bf86;
+
+}
+
+.me-2 {
+    margin-right: 0.5 !important;
+}
+
+.btn {
+    border-radius: 25px;
+    border-width: 2px;
+
+}
+
+.one {
+    padding: 290px;
+    color: aliceblue;
+    text-align: center;
+    background-color: #01bf86;
+
+}
+
+.two {
+    padding: 140px;
+    color: rgb(49, 49, 49);
+    text-align: left;
+    background-color: white;
+
+}
+
+.fa-medal {
+    color: #050707;
+    font-size: 52px;
+    margin-bottom: 25px
+}
+
+h4 {
+    color: rgb(66, 64, 64);
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+h5 {
+    color: black;
+    text-align: center;
+}
+
+.three {
+    padding: 150px;
+    text-align: center;
+    background-color: rgba(244, 244, 244, 0.871);
+}
+
+.card1 {
+    border-color: rgba(244, 244, 244, 0.871);
+    background-color: rgba(244, 244, 244, 0.871);
+}
+
+.four {
+
+    padding: 90px;
+    text-align: center;
+    background-color: white;
+
+
+}
+
+.five {
+    padding: 120px;
+    background-color: rgba(244, 244, 244, 0.871);
+
+
+}
+
+.list-inline-items {
+    margin-right: 15px;
+}
+
+.fa-caret-down {
+    text-align: end;
+    color: #dddedf;
+    font-size: 30px;
+}
+
+.six {
+    padding: 100px;
+    background-color: #01bf86;
+    text-align: center;
+    color: white;
+}
+
+.form-control {
+    width: 450px;
+    background-color: #01bf86;
+
+}
+
+.seven {
+    padding: 70px;
+    background-color: #2f3e47;
+    font-size: 14px
+}
+
+.login-btn {
+    background-color:white;
+    
+    color:#01bf86;
+}
+
+
+.login-btn:hover {
+    background-color:#01bf86 ;
+    border-color: white;
+    color:#dddedf;
+}
+.btn-floating{
+    background-color:#01bf86;
+    color: aliceblue;
+
+}
+.btn-learn{
+    background-color:#01bf86;
+   
+    color:white;
+}
+.btn-learn:hover{
+    background-color:white;
+    border-color: #01bf86;
+   color:#01bf86;
+}
+.btn-sign{
+    background-color:#01bf86;
+    color:white;
+}
+.btn-sign:hover{
+    background-color:white;
+    border-color: #01bf86;
+   color:#01bf86;
+}
+.btn1{
+    width: 40px;
+    height: 40px;
+    background-color: #01bf86;
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+
+}
+
